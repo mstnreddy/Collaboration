@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sleeping
+=======
+reading
+>>>>>>> 6fdb0d21bfae5f738666b9fc38cd308a0dc09fc2
